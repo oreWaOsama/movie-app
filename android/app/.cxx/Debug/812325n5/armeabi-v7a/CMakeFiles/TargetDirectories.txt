@@ -1,0 +1,2 @@
+D:/GitHub/new-movie-app/android/app/.cxx/Debug/812325n5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GitHub/new-movie-app/android/app/.cxx/Debug/812325n5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
